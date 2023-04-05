@@ -1,4 +1,4 @@
-# code-antoine
+# Brief comments about a small project implemented by myself
 
 Example of C++ codes written by me.
 This repo contains a class "Lidar" which inherits from another one "Component".

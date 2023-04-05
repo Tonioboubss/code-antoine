@@ -1,0 +1,5 @@
+{   "Logging": {
+        "LogLevel": "debug",
+        "Output": "console"
+    }
+}

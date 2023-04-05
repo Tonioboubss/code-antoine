@@ -1,0 +1,12 @@
+[2022-07-21 14:16:14.426] [Lidar] [info] Lidar creation 
+[2022-07-21 14:17:03.632] [Lidar] [info] Lidar creation 
+[2022-07-21 14:18:57.595] [Lidar] [info] Lidar creation 
+[2022-07-21 14:20:47.543] [Lidar] [info] Lidar creation 
+[2022-07-21 14:24:20.807] [Lidar] [info] Lidar creation 
+[2022-07-21 14:24:43.519] [Lidar] [info] Lidar creation 
+[2022-07-21 14:26:17.129] [Lidar] [info] Lidar creation 
+[2022-07-21 14:27:22.751] [Lidar] [info] Lidar creation 
+[2022-07-21 14:37:50.616] [Lidar] [info] Lidar creation 
+[2022-07-21 14:38:01.766] [Lidar] [info] Lidar creation 
+[2022-07-21 14:39:24.602] [Lidar] [info] Lidar creation 
+[2022-07-21 14:39:54.409] [Lidar] [info] Lidar creation 

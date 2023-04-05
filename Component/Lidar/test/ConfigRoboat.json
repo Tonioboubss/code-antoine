@@ -1,0 +1,5 @@
+{   "Logging": {
+        "LogLevel": "info",
+        "Output": "file"
+    }
+}

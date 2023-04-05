@@ -1,0 +1,1103 @@
+[2022-09-09 19:47:34.260] [Lidar] [info] Lidar object creation 
+[2022-09-09 19:47:34.403] [Lidar] [info] Lidar serial connection established 
+[2022-09-09 19:47:34.403] [Lidar] [info] Start lidar Verification 
+[2022-09-09 19:47:34.715] [Lidar] [debug] Lidar health is fine and ready to make measurements 
+[2022-09-09 19:47:34.715] [Lidar] [info] Start lidar Verification 
+[2022-09-09 19:47:36.231] [Lidar] [debug] Lidar health is fine and ready to make measurements 
+[2022-09-09 19:47:36.231] [Lidar] [info] Start collecting a frame of Data 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Number of meaningful data : 949 points 
+[2022-09-09 19:47:37.693] [Lidar] [debug] number of unsignificant data : 67 points 
+[2022-09-09 19:47:37.693] [Lidar] [info] Data collection end : one data frame has been captured 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 1 : theta= 0.076904°, Distance= 83 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 2 : theta= 0.417480°, Distance= 83 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 3 : theta= 0.780029°, Distance= 83 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 4 : theta= 1.137085°, Distance= 83 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 5 : theta= 1.483154°, Distance= 83 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 6 : theta= 1.840210°, Distance= 83 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 7 : theta= 2.202759°, Distance= 83 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 8 : theta= 2.543335°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 9 : theta= 2.905884°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 10 : theta= 3.262939°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 11 : theta= 3.609009°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 12 : theta= 3.966064°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 13 : theta= 4.323120°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 14 : theta= 4.669189°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 15 : theta= 5.026245°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 16 : theta= 5.372314°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 17 : theta= 5.729370°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 18 : theta= 6.091919°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 19 : theta= 6.388550°, Distance= 84 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 20 : theta= 6.729126°, Distance= 85 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 21 : theta= 7.091675°, Distance= 85 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 22 : theta= 7.448730°, Distance= 85 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 23 : theta= 7.794800°, Distance= 85 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 24 : theta= 8.151855°, Distance= 85 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 25 : theta= 8.514404°, Distance= 85 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 26 : theta= 8.854980°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 27 : theta= 9.217529°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 28 : theta= 9.574585°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 29 : theta= 9.920654°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 30 : theta= 10.277710°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 31 : theta= 10.640259°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 32 : theta= 10.980835°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 33 : theta= 11.343384°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 34 : theta= 11.683960°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 35 : theta= 12.046509°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 36 : theta= 12.403564°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 37 : theta= 12.749634°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 38 : theta= 13.106689°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 39 : theta= 13.463745°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 40 : theta= 13.809814°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 41 : theta= 14.166870°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 42 : theta= 14.512939°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 43 : theta= 14.869995°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 44 : theta= 15.232544°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 45 : theta= 15.573120°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 46 : theta= 15.935669°, Distance= 86 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 47 : theta= 16.292725°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 48 : theta= 16.638794°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 49 : theta= 16.995850°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 50 : theta= 17.358398°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 51 : theta= 17.698975°, Distance= 87 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 52 : theta= 17.995605°, Distance= 88 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 53 : theta= 18.358154°, Distance= 88 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 54 : theta= 18.715210°, Distance= 88 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 55 : theta= 19.061279°, Distance= 88 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 56 : theta= 19.418335°, Distance= 89 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 57 : theta= 19.764404°, Distance= 89 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 58 : theta= 20.121460°, Distance= 89 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 59 : theta= 20.484009°, Distance= 89 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 60 : theta= 20.824585°, Distance= 89 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 61 : theta= 21.187134°, Distance= 90 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 62 : theta= 21.544189°, Distance= 90 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 63 : theta= 21.890259°, Distance= 89 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 64 : theta= 22.247314°, Distance= 90 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 65 : theta= 22.604370°, Distance= 90 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 66 : theta= 22.950439°, Distance= 90 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 67 : theta= 23.247070°, Distance= 91 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 68 : theta= 23.604126°, Distance= 91 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 69 : theta= 23.950195°, Distance= 91 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 70 : theta= 24.307251°, Distance= 91 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 71 : theta= 24.669800°, Distance= 92 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 72 : theta= 25.010376°, Distance= 92 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 73 : theta= 25.372925°, Distance= 92 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 74 : theta= 25.729980°, Distance= 93 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 75 : theta= 26.076050°, Distance= 93 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 76 : theta= 26.433105°, Distance= 93 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 77 : theta= 26.795654°, Distance= 93 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 78 : theta= 27.136230°, Distance= 94 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 79 : theta= 27.498779°, Distance= 94 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 80 : theta= 27.839355°, Distance= 94 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 81 : theta= 28.558960°, Distance= 94 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 82 : theta= 29.542236°, Distance= 78 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 83 : theta= 29.904785°, Distance= 77 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 84 : theta= 30.311279°, Distance= 76 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 85 : theta= 30.651855°, Distance= 75 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 86 : theta= 31.014404°, Distance= 75 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 87 : theta= 31.371460°, Distance= 75 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 88 : theta= 31.717529°, Distance= 76 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 89 : theta= 32.074585°, Distance= 76 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 90 : theta= 33.140259°, Distance= 76 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 91 : theta= 33.750000°, Distance= 100 cm 
+[2022-09-09 19:47:37.693] [Lidar] [debug] Measure n° 92 : theta= 34.107056°, Distance= 100 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 93 : theta= 34.453125°, Distance= 100 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 94 : theta= 34.810181°, Distance= 101 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 95 : theta= 35.167236°, Distance= 101 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 96 : theta= 36.260376°, Distance= 78 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 97 : theta= 36.622925°, Distance= 77 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 98 : theta= 37.029419°, Distance= 76 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 99 : theta= 37.369995°, Distance= 76 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 100 : theta= 37.732544°, Distance= 75 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 101 : theta= 38.089600°, Distance= 74 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 102 : theta= 38.496094°, Distance= 74 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 103 : theta= 38.858643°, Distance= 73 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 104 : theta= 39.199219°, Distance= 72 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 105 : theta= 39.605713°, Distance= 72 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 106 : theta= 39.968262°, Distance= 71 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 107 : theta= 40.325317°, Distance= 71 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 108 : theta= 40.671387°, Distance= 70 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 109 : theta= 41.088867°, Distance= 70 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 110 : theta= 41.434937°, Distance= 69 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 111 : theta= 41.791992°, Distance= 68 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 112 : theta= 42.198486°, Distance= 68 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 113 : theta= 42.561035°, Distance= 67 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 114 : theta= 42.918091°, Distance= 67 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 115 : theta= 43.264160°, Distance= 66 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 116 : theta= 43.687134°, Distance= 66 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 117 : theta= 44.027710°, Distance= 65 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 118 : theta= 44.390259°, Distance= 65 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 119 : theta= 44.747314°, Distance= 64 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 120 : theta= 45.153809°, Distance= 64 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 121 : theta= 45.510864°, Distance= 64 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 122 : theta= 45.856934°, Distance= 63 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 123 : theta= 46.213989°, Distance= 63 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 124 : theta= 46.620483°, Distance= 62 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 125 : theta= 46.983032°, Distance= 62 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 126 : theta= 47.340088°, Distance= 61 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 127 : theta= 47.746582°, Distance= 61 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 128 : theta= 48.109131°, Distance= 61 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 129 : theta= 48.449707°, Distance= 60 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 130 : theta= 48.812256°, Distance= 60 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 131 : theta= 49.218750°, Distance= 59 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 132 : theta= 49.575806°, Distance= 59 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 133 : theta= 49.932861°, Distance= 59 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 134 : theta= 50.278931°, Distance= 58 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 135 : theta= 50.701904°, Distance= 58 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 136 : theta= 51.042480°, Distance= 58 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 137 : theta= 51.405029°, Distance= 57 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 138 : theta= 51.762085°, Distance= 57 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 139 : theta= 52.108154°, Distance= 57 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 140 : theta= 52.531128°, Distance= 57 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 141 : theta= 52.871704°, Distance= 56 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 142 : theta= 53.234253°, Distance= 56 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 143 : theta= 53.591309°, Distance= 56 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 144 : theta= 53.997803°, Distance= 55 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 145 : theta= 54.354858°, Distance= 55 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 146 : theta= 54.700928°, Distance= 55 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 147 : theta= 55.057983°, Distance= 55 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 148 : theta= 55.420532°, Distance= 54 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 149 : theta= 55.827026°, Distance= 54 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 150 : theta= 56.184082°, Distance= 54 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 151 : theta= 56.546631°, Distance= 53 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 152 : theta= 56.887207°, Distance= 53 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 153 : theta= 57.310181°, Distance= 53 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 154 : theta= 57.656250°, Distance= 53 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 155 : theta= 58.013306°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 156 : theta= 58.370361°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 157 : theta= 58.716431°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 158 : theta= 59.139404°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 159 : theta= 59.479980°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 160 : theta= 59.842529°, Distance= 51 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 161 : theta= 60.199585°, Distance= 51 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 162 : theta= 60.545654°, Distance= 51 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 163 : theta= 60.968628°, Distance= 51 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 164 : theta= 61.309204°, Distance= 51 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 165 : theta= 61.671753°, Distance= 50 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 166 : theta= 62.028809°, Distance= 50 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 167 : theta= 62.385864°, Distance= 50 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 168 : theta= 62.731934°, Distance= 50 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 169 : theta= 63.088989°, Distance= 51 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 170 : theta= 63.451538°, Distance= 51 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 171 : theta= 63.748169°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 172 : theta= 64.044800°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 173 : theta= 64.385376°, Distance= 52 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 174 : theta= 64.747925°, Distance= 53 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 175 : theta= 65.044556°, Distance= 53 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 176 : theta= 65.401611°, Distance= 54 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 177 : theta= 65.698242°, Distance= 55 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 178 : theta= 66.060791°, Distance= 55 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 179 : theta= 66.357422°, Distance= 56 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 180 : theta= 66.714478°, Distance= 56 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 181 : theta= 67.011108°, Distance= 57 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 182 : theta= 67.357178°, Distance= 58 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 183 : theta= 67.670288°, Distance= 59 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 184 : theta= 68.010864°, Distance= 59 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 185 : theta= 68.307495°, Distance= 60 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 186 : theta= 68.670044°, Distance= 61 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 187 : theta= 68.966675°, Distance= 62 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 188 : theta= 69.323730°, Distance= 62 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 189 : theta= 69.620361°, Distance= 63 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 190 : theta= 69.982910°, Distance= 64 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 191 : theta= 70.279541°, Distance= 65 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 192 : theta= 70.636597°, Distance= 66 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 193 : theta= 70.933228°, Distance= 67 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 194 : theta= 71.229858°, Distance= 68 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 195 : theta= 71.575928°, Distance= 69 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 196 : theta= 71.889038°, Distance= 70 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 197 : theta= 72.229614°, Distance= 71 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 198 : theta= 72.526245°, Distance= 72 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 199 : theta= 72.888794°, Distance= 73 cm 
+[2022-09-09 19:47:37.694] [Lidar] [debug] Measure n° 200 : theta= 73.185425°, Distance= 75 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 201 : theta= 73.542480°, Distance= 76 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 202 : theta= 73.839111°, Distance= 77 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 203 : theta= 74.201660°, Distance= 79 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 204 : theta= 74.498291°, Distance= 80 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 205 : theta= 74.855347°, Distance= 81 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 206 : theta= 75.151978°, Distance= 83 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 207 : theta= 75.498047°, Distance= 84 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 208 : theta= 75.794678°, Distance= 86 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 209 : theta= 76.091309°, Distance= 88 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 210 : theta= 76.448364°, Distance= 89 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 211 : theta= 76.744995°, Distance= 91 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 212 : theta= 77.107544°, Distance= 93 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 213 : theta= 77.404175°, Distance= 95 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 214 : theta= 78.464355°, Distance= 97 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 215 : theta= 78.997192°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 216 : theta= 79.354248°, Distance= 109 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 217 : theta= 80.419922°, Distance= 110 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 218 : theta= 81.123047°, Distance= 109 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 219 : theta= 81.480103°, Distance= 109 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 220 : theta= 81.826172°, Distance= 109 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 221 : theta= 82.183228°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 222 : theta= 82.545776°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 223 : theta= 82.886353°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 224 : theta= 83.248901°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 225 : theta= 83.605957°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 226 : theta= 83.952026°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 227 : theta= 84.309082°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 228 : theta= 84.655151°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 229 : theta= 85.012207°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 230 : theta= 85.374756°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 231 : theta= 85.715332°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 232 : theta= 86.077881°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 233 : theta= 86.434937°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 234 : theta= 86.781006°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 235 : theta= 87.138062°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 236 : theta= 87.495117°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 237 : theta= 87.841187°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 238 : theta= 88.247681°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 239 : theta= 88.604736°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 240 : theta= 88.967285°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 241 : theta= 89.307861°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 242 : theta= 89.670410°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 243 : theta= 90.027466°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 244 : theta= 90.373535°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 245 : theta= 90.730591°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 246 : theta= 91.076660°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 247 : theta= 91.433716°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 248 : theta= 91.796265°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 249 : theta= 92.136841°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 250 : theta= 92.499390°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 251 : theta= 92.856445°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 252 : theta= 93.202515°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 253 : theta= 93.559570°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 254 : theta= 93.916626°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 255 : theta= 94.262695°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 256 : theta= 94.619751°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 257 : theta= 94.965820°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 258 : theta= 95.322876°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 259 : theta= 95.685425°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 260 : theta= 96.026001°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 261 : theta= 96.388550°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 262 : theta= 96.745605°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 263 : theta= 97.091675°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 264 : theta= 97.448730°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 265 : theta= 97.811279°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 266 : theta= 98.151855°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 267 : theta= 98.514404°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 268 : theta= 98.854980°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 269 : theta= 99.217529°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 270 : theta= 99.574585°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 271 : theta= 99.920654°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 272 : theta= 100.277710°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 273 : theta= 100.640259°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 274 : theta= 100.980835°, Distance= 106 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 275 : theta= 101.277466°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 276 : theta= 101.640015°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 277 : theta= 101.997070°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 278 : theta= 102.343140°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 279 : theta= 102.700195°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 280 : theta= 103.046265°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 281 : theta= 103.403320°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 282 : theta= 103.760376°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 283 : theta= 104.106445°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 284 : theta= 104.463501°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 285 : theta= 104.826050°, Distance= 107 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 286 : theta= 105.166626°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 287 : theta= 105.529175°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 288 : theta= 105.886230°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 289 : theta= 106.232300°, Distance= 108 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 290 : theta= 106.935425°, Distance= 109 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 291 : theta= 107.605591°, Distance= 155 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 292 : theta= 108.012085°, Distance= 152 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 293 : theta= 108.374634°, Distance= 149 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 294 : theta= 108.731689°, Distance= 146 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 295 : theta= 109.138184°, Distance= 143 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 296 : theta= 109.495239°, Distance= 140 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 297 : theta= 109.841309°, Distance= 137 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 298 : theta= 110.264282°, Distance= 134 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 299 : theta= 110.604858°, Distance= 132 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 300 : theta= 111.027832°, Distance= 129 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 301 : theta= 111.373901°, Distance= 127 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 302 : theta= 111.730957°, Distance= 128 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 303 : theta= 112.077026°, Distance= 128 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 304 : theta= 112.434082°, Distance= 129 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 305 : theta= 112.796631°, Distance= 129 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 306 : theta= 113.137207°, Distance= 129 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 307 : theta= 113.450317°, Distance= 129 cm 
+[2022-09-09 19:47:37.695] [Lidar] [debug] Measure n° 308 : theta= 113.796387°, Distance= 130 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 309 : theta= 114.153442°, Distance= 130 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 310 : theta= 114.499512°, Distance= 130 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 311 : theta= 114.856567°, Distance= 131 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 312 : theta= 115.213623°, Distance= 131 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 313 : theta= 115.559692°, Distance= 132 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 314 : theta= 115.916748°, Distance= 132 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 315 : theta= 116.279297°, Distance= 132 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 316 : theta= 116.619873°, Distance= 132 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 317 : theta= 116.982422°, Distance= 133 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 318 : theta= 117.339478°, Distance= 133 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 319 : theta= 117.685547°, Distance= 134 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 320 : theta= 118.042603°, Distance= 134 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 321 : theta= 118.405151°, Distance= 134 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 322 : theta= 118.745728°, Distance= 135 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 323 : theta= 119.108276°, Distance= 135 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 324 : theta= 119.465332°, Distance= 136 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 325 : theta= 119.811401°, Distance= 136 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 326 : theta= 120.108032°, Distance= 137 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 327 : theta= 120.465088°, Distance= 137 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 328 : theta= 120.827637°, Distance= 137 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 329 : theta= 121.168213°, Distance= 138 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 330 : theta= 121.530762°, Distance= 138 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 331 : theta= 121.887817°, Distance= 139 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 332 : theta= 122.233887°, Distance= 140 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 333 : theta= 122.590942°, Distance= 140 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 334 : theta= 122.947998°, Distance= 140 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 335 : theta= 123.294067°, Distance= 141 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 336 : theta= 123.651123°, Distance= 142 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 337 : theta= 124.013672°, Distance= 142 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 338 : theta= 124.354248°, Distance= 143 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 339 : theta= 124.716797°, Distance= 143 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 340 : theta= 125.073853°, Distance= 144 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 341 : theta= 125.419922°, Distance= 144 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 342 : theta= 125.716553°, Distance= 145 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 343 : theta= 126.073608°, Distance= 146 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 344 : theta= 126.776733°, Distance= 146 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 345 : theta= 127.029419°, Distance= 165 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 346 : theta= 127.435913°, Distance= 163 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 347 : theta= 127.792969°, Distance= 162 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 348 : theta= 128.139038°, Distance= 161 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 349 : theta= 128.496094°, Distance= 159 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 350 : theta= 128.858643°, Distance= 158 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 351 : theta= 129.199219°, Distance= 157 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 352 : theta= 129.561768°, Distance= 156 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 353 : theta= 129.918823°, Distance= 156 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 354 : theta= 130.264893°, Distance= 157 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 355 : theta= 130.621948°, Distance= 157 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 356 : theta= 130.979004°, Distance= 158 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 357 : theta= 131.325073°, Distance= 159 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 358 : theta= 131.682129°, Distance= 160 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 359 : theta= 132.044678°, Distance= 160 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 360 : theta= 132.385254°, Distance= 161 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 361 : theta= 132.747803°, Distance= 162 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 362 : theta= 133.104858°, Distance= 163 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 363 : theta= 133.401489°, Distance= 164 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 364 : theta= 133.747559°, Distance= 164 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 365 : theta= 134.104614°, Distance= 165 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 366 : theta= 134.467163°, Distance= 166 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 367 : theta= 134.807739°, Distance= 168 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 368 : theta= 135.170288°, Distance= 169 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 369 : theta= 135.527344°, Distance= 169 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 370 : theta= 135.873413°, Distance= 170 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 371 : theta= 136.230469°, Distance= 171 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 372 : theta= 136.593018°, Distance= 172 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 373 : theta= 136.933594°, Distance= 173 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 374 : theta= 137.296143°, Distance= 174 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 375 : theta= 140.136108°, Distance= 53 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 376 : theta= 140.498657°, Distance= 53 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 377 : theta= 140.855713°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 378 : theta= 141.201782°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 379 : theta= 141.558838°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 380 : theta= 141.921387°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 381 : theta= 142.327881°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 382 : theta= 142.684937°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 383 : theta= 142.981567°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 384 : theta= 143.327637°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 385 : theta= 143.684692°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 386 : theta= 144.041748°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 387 : theta= 144.387817°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 388 : theta= 144.744873°, Distance= 52 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 389 : theta= 145.447998°, Distance= 53 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 390 : theta= 146.640015°, Distance= 50 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 391 : theta= 148.233032°, Distance= 322 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 392 : theta= 148.590088°, Distance= 321 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 393 : theta= 148.952637°, Distance= 321 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 394 : theta= 149.309692°, Distance= 321 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 395 : theta= 149.655762°, Distance= 322 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 396 : theta= 151.452026°, Distance= 119 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 397 : theta= 151.809082°, Distance= 119 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 398 : theta= 152.155151°, Distance= 119 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 399 : theta= 152.512207°, Distance= 119 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 400 : theta= 152.874756°, Distance= 119 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 401 : theta= 153.215332°, Distance= 119 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 402 : theta= 153.577881°, Distance= 119 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 403 : theta= 153.934937°, Distance= 118 cm 
+[2022-09-09 19:47:37.696] [Lidar] [debug] Measure n° 404 : theta= 154.281006°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 405 : theta= 154.638062°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 406 : theta= 154.995117°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 407 : theta= 155.357666°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 408 : theta= 155.698242°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 409 : theta= 156.060791°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 410 : theta= 156.417847°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 411 : theta= 156.763916°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 412 : theta= 157.120972°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 413 : theta= 157.483521°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 414 : theta= 157.824097°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 415 : theta= 158.186646°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 416 : theta= 158.543701°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 417 : theta= 158.906250°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 418 : theta= 159.246826°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 419 : theta= 159.609375°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 420 : theta= 159.966431°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 421 : theta= 160.312500°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 422 : theta= 160.669556°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 423 : theta= 161.026611°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 424 : theta= 161.372681°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 425 : theta= 161.729736°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 426 : theta= 162.092285°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 427 : theta= 162.449341°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 428 : theta= 162.795410°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 429 : theta= 163.152466°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 430 : theta= 163.515015°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 431 : theta= 163.855591°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 432 : theta= 164.218140°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 433 : theta= 164.575195°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 434 : theta= 164.921265°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 435 : theta= 165.278320°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 436 : theta= 165.635376°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 437 : theta= 165.981445°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 438 : theta= 166.338501°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 439 : theta= 166.701050°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 440 : theta= 167.058105°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 441 : theta= 167.404175°, Distance= 118 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 442 : theta= 167.761230°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 443 : theta= 168.123779°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 444 : theta= 168.464355°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 445 : theta= 168.826904°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 446 : theta= 169.183960°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 447 : theta= 169.530029°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 448 : theta= 169.887085°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 449 : theta= 170.249634°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 450 : theta= 170.606689°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 451 : theta= 170.952759°, Distance= 119 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 452 : theta= 171.309814°, Distance= 120 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 453 : theta= 171.666870°, Distance= 120 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 454 : theta= 172.012939°, Distance= 120 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 455 : theta= 172.369995°, Distance= 120 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 456 : theta= 172.732544°, Distance= 120 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 457 : theta= 173.073120°, Distance= 120 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 458 : theta= 173.435669°, Distance= 121 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 459 : theta= 173.792725°, Distance= 121 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 460 : theta= 174.155273°, Distance= 121 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 461 : theta= 174.495850°, Distance= 121 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 462 : theta= 174.858398°, Distance= 121 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 463 : theta= 175.215454°, Distance= 122 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 464 : theta= 175.561523°, Distance= 122 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 465 : theta= 175.918579°, Distance= 122 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 466 : theta= 176.281128°, Distance= 122 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 467 : theta= 176.621704°, Distance= 122 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 468 : theta= 176.984253°, Distance= 122 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 469 : theta= 177.280884°, Distance= 123 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 470 : theta= 177.637939°, Distance= 123 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 471 : theta= 177.984009°, Distance= 123 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 472 : theta= 178.341064°, Distance= 124 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 473 : theta= 178.983765°, Distance= 134 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 474 : theta= 179.340820°, Distance= 134 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 475 : theta= 179.697876°, Distance= 134 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 476 : theta= 180.043945°, Distance= 134 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 477 : theta= 180.401001°, Distance= 133 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 478 : theta= 180.747070°, Distance= 133 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 479 : theta= 181.104126°, Distance= 133 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 480 : theta= 181.466675°, Distance= 133 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 481 : theta= 181.807251°, Distance= 132 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 482 : theta= 182.169800°, Distance= 132 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 483 : theta= 184.229736°, Distance= 67 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 484 : theta= 184.592285°, Distance= 67 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 485 : theta= 184.932861°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 486 : theta= 185.295410°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 487 : theta= 185.635986°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 488 : theta= 185.998535°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 489 : theta= 186.339111°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 490 : theta= 186.762085°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 491 : theta= 187.108154°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 492 : theta= 187.465210°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 493 : theta= 187.811279°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 494 : theta= 188.107910°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 495 : theta= 188.464966°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 496 : theta= 188.827515°, Distance= 66 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 497 : theta= 189.168091°, Distance= 67 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 498 : theta= 189.530640°, Distance= 67 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 499 : theta= 189.871216°, Distance= 67 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 500 : theta= 190.167847°, Distance= 68 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 501 : theta= 190.530396°, Distance= 69 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 502 : theta= 191.354370°, Distance= 77 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 503 : theta= 192.810059°, Distance= 127 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 504 : theta= 193.156128°, Distance= 127 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 505 : theta= 193.513184°, Distance= 127 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 506 : theta= 193.870239°, Distance= 127 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 507 : theta= 194.216309°, Distance= 127 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 508 : theta= 194.573364°, Distance= 127 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 509 : theta= 194.919434°, Distance= 127 cm 
+[2022-09-09 19:47:37.697] [Lidar] [debug] Measure n° 510 : theta= 195.276489°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 511 : theta= 195.622559°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 512 : theta= 195.979614°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 513 : theta= 196.342163°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 514 : theta= 196.682739°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 515 : theta= 197.045288°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 516 : theta= 197.385864°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 517 : theta= 197.748413°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 518 : theta= 198.105469°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 519 : theta= 198.451538°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 520 : theta= 198.808594°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 521 : theta= 199.154663°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 522 : theta= 199.511719°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 523 : theta= 199.857788°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 524 : theta= 200.214844°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 525 : theta= 200.577393°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 526 : theta= 200.917969°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 527 : theta= 201.280518°, Distance= 127 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 528 : theta= 202.450562°, Distance= 113 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 529 : theta= 202.796631°, Distance= 113 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 530 : theta= 203.153687°, Distance= 113 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 531 : theta= 203.560181°, Distance= 111 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 532 : theta= 203.917236°, Distance= 111 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 533 : theta= 204.263306°, Distance= 110 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 534 : theta= 204.620361°, Distance= 110 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 535 : theta= 204.966431°, Distance= 110 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 536 : theta= 205.323486°, Distance= 109 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 537 : theta= 205.686035°, Distance= 109 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 538 : theta= 206.026611°, Distance= 108 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 539 : theta= 206.389160°, Distance= 108 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 540 : theta= 206.729736°, Distance= 108 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 541 : theta= 207.092285°, Distance= 107 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 542 : theta= 207.432861°, Distance= 107 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 543 : theta= 207.795410°, Distance= 107 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 544 : theta= 208.201904°, Distance= 106 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 545 : theta= 208.558960°, Distance= 106 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 546 : theta= 208.905029°, Distance= 106 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 547 : theta= 209.262085°, Distance= 106 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 548 : theta= 209.624634°, Distance= 105 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 549 : theta= 209.965210°, Distance= 105 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 550 : theta= 210.327759°, Distance= 105 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 551 : theta= 210.668335°, Distance= 105 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 552 : theta= 211.030884°, Distance= 104 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 553 : theta= 211.387939°, Distance= 104 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 554 : theta= 211.734009°, Distance= 104 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 555 : theta= 212.091064°, Distance= 104 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 556 : theta= 212.448120°, Distance= 103 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 557 : theta= 212.794189°, Distance= 103 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 558 : theta= 213.151245°, Distance= 103 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 559 : theta= 213.513794°, Distance= 103 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 560 : theta= 213.854370°, Distance= 102 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 561 : theta= 214.216919°, Distance= 102 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 562 : theta= 214.623413°, Distance= 102 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 563 : theta= 214.980469°, Distance= 102 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 564 : theta= 215.343018°, Distance= 102 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 565 : theta= 215.683594°, Distance= 102 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 566 : theta= 216.046143°, Distance= 101 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 567 : theta= 216.403198°, Distance= 101 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 568 : theta= 216.749268°, Distance= 101 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 569 : theta= 217.106323°, Distance= 101 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 570 : theta= 217.463379°, Distance= 101 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 571 : theta= 217.825928°, Distance= 101 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 572 : theta= 218.166504°, Distance= 100 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 573 : theta= 218.529053°, Distance= 100 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 574 : theta= 218.886108°, Distance= 100 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 575 : theta= 219.232178°, Distance= 100 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 576 : theta= 219.589233°, Distance= 100 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 577 : theta= 219.951782°, Distance= 100 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 578 : theta= 220.292358°, Distance= 100 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 579 : theta= 220.654907°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 580 : theta= 221.011963°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 581 : theta= 221.358032°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 582 : theta= 221.715088°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 583 : theta= 222.077637°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 584 : theta= 222.418213°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 585 : theta= 222.780762°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 586 : theta= 223.137817°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 587 : theta= 223.494873°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 588 : theta= 223.840942°, Distance= 99 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 589 : theta= 224.197998°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 590 : theta= 224.560547°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 591 : theta= 224.901123°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 592 : theta= 225.263672°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 593 : theta= 225.620728°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 594 : theta= 225.966797°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 595 : theta= 226.323853°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 596 : theta= 226.686401°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 597 : theta= 227.026978°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 598 : theta= 227.449951°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 599 : theta= 227.746582°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 600 : theta= 228.153076°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 601 : theta= 228.515625°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 602 : theta= 228.856201°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 603 : theta= 229.218750°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 604 : theta= 229.575806°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 605 : theta= 229.921875°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 606 : theta= 230.278931°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 607 : theta= 231.339111°, Distance= 98 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 608 : theta= 233.514404°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 609 : theta= 233.854980°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 610 : theta= 234.217529°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 611 : theta= 234.574585°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 612 : theta= 234.937134°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 613 : theta= 235.277710°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 614 : theta= 235.640259°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 615 : theta= 235.997314°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 616 : theta= 236.343384°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 617 : theta= 236.700439°, Distance= 48 cm 
+[2022-09-09 19:47:37.698] [Lidar] [debug] Measure n° 618 : theta= 237.057495°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 619 : theta= 237.403564°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 620 : theta= 237.760620°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 621 : theta= 238.123169°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 622 : theta= 238.463745°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 623 : theta= 238.826294°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 624 : theta= 239.183350°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 625 : theta= 239.529419°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 626 : theta= 239.886475°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 627 : theta= 240.249023°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 628 : theta= 240.606079°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 629 : theta= 240.952148°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 630 : theta= 241.309204°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 631 : theta= 241.671753°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 632 : theta= 242.012329°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 633 : theta= 242.374878°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 634 : theta= 242.731934°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 635 : theta= 243.028564°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 636 : theta= 243.374634°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 637 : theta= 243.792114°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 638 : theta= 244.138184°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 639 : theta= 244.451294°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 640 : theta= 244.791870°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 641 : theta= 245.154419°, Distance= 48 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 642 : theta= 245.511475°, Distance= 49 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 643 : theta= 247.296753°, Distance= 98 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 644 : theta= 247.653809°, Distance= 97 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 645 : theta= 248.010864°, Distance= 95 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 646 : theta= 248.373413°, Distance= 94 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 647 : theta= 248.779907°, Distance= 94 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 648 : theta= 249.136963°, Distance= 93 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 649 : theta= 249.483032°, Distance= 92 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 650 : theta= 249.840088°, Distance= 91 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 651 : theta= 250.246582°, Distance= 90 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 652 : theta= 250.609131°, Distance= 90 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 653 : theta= 250.966187°, Distance= 89 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 654 : theta= 251.312256°, Distance= 88 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 655 : theta= 251.669312°, Distance= 88 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 656 : theta= 252.075806°, Distance= 87 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 657 : theta= 252.432861°, Distance= 87 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 658 : theta= 252.795410°, Distance= 86 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 659 : theta= 253.152466°, Distance= 86 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 660 : theta= 253.498535°, Distance= 85 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 661 : theta= 253.855591°, Distance= 85 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 662 : theta= 254.262085°, Distance= 84 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 663 : theta= 254.624634°, Distance= 84 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 664 : theta= 254.981689°, Distance= 83 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 665 : theta= 255.338745°, Distance= 83 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 666 : theta= 255.684814°, Distance= 82 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 667 : theta= 256.041870°, Distance= 82 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 668 : theta= 256.404419°, Distance= 82 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 669 : theta= 256.810913°, Distance= 81 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 670 : theta= 257.167969°, Distance= 81 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 671 : theta= 257.514038°, Distance= 80 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 672 : theta= 257.871094°, Distance= 80 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 673 : theta= 258.233643°, Distance= 80 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 674 : theta= 258.590698°, Distance= 79 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 675 : theta= 258.997192°, Distance= 79 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 676 : theta= 259.354248°, Distance= 79 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 677 : theta= 259.700317°, Distance= 78 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 678 : theta= 260.057373°, Distance= 78 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 679 : theta= 260.419922°, Distance= 78 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 680 : theta= 260.760498°, Distance= 77 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 681 : theta= 261.123047°, Distance= 77 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 682 : theta= 261.480103°, Distance= 77 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 683 : theta= 261.886597°, Distance= 76 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 684 : theta= 262.249146°, Distance= 76 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 685 : theta= 262.606201°, Distance= 76 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 686 : theta= 262.952271°, Distance= 76 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 687 : theta= 263.309326°, Distance= 75 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 688 : theta= 263.671875°, Distance= 75 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 689 : theta= 264.012451°, Distance= 75 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 690 : theta= 264.375000°, Distance= 75 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 691 : theta= 264.732056°, Distance= 74 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 692 : theta= 265.089111°, Distance= 74 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 693 : theta= 265.495605°, Distance= 74 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 694 : theta= 265.858154°, Distance= 74 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 695 : theta= 266.198730°, Distance= 74 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 696 : theta= 266.561279°, Distance= 74 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 697 : theta= 266.918335°, Distance= 73 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 698 : theta= 267.280884°, Distance= 73 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 699 : theta= 267.621460°, Distance= 73 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 700 : theta= 267.984009°, Distance= 73 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 701 : theta= 268.341064°, Distance= 73 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 702 : theta= 268.687134°, Distance= 73 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 703 : theta= 269.044189°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 704 : theta= 269.401245°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 705 : theta= 269.763794°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 706 : theta= 270.104370°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 707 : theta= 270.466919°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 708 : theta= 270.823975°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 709 : theta= 271.230469°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 710 : theta= 271.593018°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 711 : theta= 271.889648°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 712 : theta= 272.246704°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 713 : theta= 272.653198°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 714 : theta= 273.010254°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 715 : theta= 273.356323°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 716 : theta= 273.713379°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 717 : theta= 274.075928°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 718 : theta= 274.432983°, Distance= 72 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 719 : theta= 274.779053°, Distance= 71 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 720 : theta= 275.136108°, Distance= 71 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 721 : theta= 275.498657°, Distance= 71 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 722 : theta= 275.839233°, Distance= 71 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 723 : theta= 276.498413°, Distance= 73 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 724 : theta= 276.965332°, Distance= 70 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 725 : theta= 277.261963°, Distance= 70 cm 
+[2022-09-09 19:47:37.699] [Lidar] [debug] Measure n° 726 : theta= 277.624512°, Distance= 70 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 727 : theta= 277.981567°, Distance= 71 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 728 : theta= 278.327637°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 729 : theta= 278.684692°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 730 : theta= 279.041748°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 731 : theta= 279.404297°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 732 : theta= 279.744873°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 733 : theta= 280.107422°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 734 : theta= 280.464478°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 735 : theta= 280.810547°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 736 : theta= 281.167603°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 737 : theta= 281.530151°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 738 : theta= 281.870728°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 739 : theta= 282.233276°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 740 : theta= 282.529907°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 741 : theta= 282.886963°, Distance= 72 cm 
+[2022-09-09 19:47:37.700] [Lidar] [debug] Measure n° 742 : theta= 283.249512°, Distance= 72 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 743 : theta= 283.590088°, Distance= 72 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 744 : theta= 283.952637°, Distance= 72 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 745 : theta= 284.309692°, Distance= 72 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 746 : theta= 284.655762°, Distance= 72 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 747 : theta= 285.012817°, Distance= 72 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 748 : theta= 285.369873°, Distance= 72 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 749 : theta= 285.732422°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 750 : theta= 286.072998°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 751 : theta= 286.435547°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 752 : theta= 286.792603°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 753 : theta= 287.138672°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 754 : theta= 287.495728°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 755 : theta= 287.858276°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 756 : theta= 288.198853°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 757 : theta= 288.561401°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 758 : theta= 288.918457°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 759 : theta= 289.281006°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 760 : theta= 289.621582°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 761 : theta= 289.984131°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 762 : theta= 290.341187°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 763 : theta= 290.637817°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 764 : theta= 290.983887°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 765 : theta= 291.340942°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 766 : theta= 291.747437°, Distance= 74 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 767 : theta= 292.467041°, Distance= 73 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 768 : theta= 292.763672°, Distance= 76 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 769 : theta= 293.120728°, Distance= 75 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 770 : theta= 293.466797°, Distance= 75 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 771 : theta= 293.823853°, Distance= 75 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 772 : theta= 294.186401°, Distance= 76 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 773 : theta= 294.483032°, Distance= 77 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 774 : theta= 294.840088°, Distance= 77 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 775 : theta= 295.186157°, Distance= 77 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 776 : theta= 295.543213°, Distance= 78 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 777 : theta= 295.905762°, Distance= 78 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 778 : theta= 296.246338°, Distance= 78 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 779 : theta= 296.608887°, Distance= 78 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 780 : theta= 296.965942°, Distance= 78 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 781 : theta= 297.312012°, Distance= 79 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 782 : theta= 297.669067°, Distance= 79 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 783 : theta= 297.965698°, Distance= 79 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 784 : theta= 298.322754°, Distance= 79 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 785 : theta= 298.685303°, Distance= 79 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 786 : theta= 299.025879°, Distance= 80 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 787 : theta= 299.388428°, Distance= 80 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 788 : theta= 299.745483°, Distance= 80 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 789 : theta= 300.091553°, Distance= 80 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 790 : theta= 300.448608°, Distance= 81 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 791 : theta= 300.811157°, Distance= 81 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 792 : theta= 301.151733°, Distance= 81 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 793 : theta= 301.514282°, Distance= 81 cm 
+[2022-09-09 19:47:37.701] [Lidar] [debug] Measure n° 794 : theta= 301.810913°, Distance= 82 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 795 : theta= 302.167969°, Distance= 82 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 796 : theta= 302.530518°, Distance= 82 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 797 : theta= 302.871094°, Distance= 83 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 798 : theta= 303.233643°, Distance= 83 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 799 : theta= 303.590698°, Distance= 83 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 800 : theta= 303.936768°, Distance= 83 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 801 : theta= 304.293823°, Distance= 84 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 802 : theta= 304.650879°, Distance= 84 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 803 : theta= 304.953003°, Distance= 84 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 804 : theta= 305.310059°, Distance= 85 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 805 : theta= 305.656128°, Distance= 85 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 806 : theta= 306.013184°, Distance= 85 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 807 : theta= 306.370239°, Distance= 86 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 808 : theta= 306.716309°, Distance= 86 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 809 : theta= 307.073364°, Distance= 86 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 810 : theta= 307.435913°, Distance= 87 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 811 : theta= 307.792969°, Distance= 87 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 812 : theta= 308.139038°, Distance= 87 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 813 : theta= 308.435669°, Distance= 88 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 814 : theta= 308.792725°, Distance= 88 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 815 : theta= 309.155273°, Distance= 89 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 816 : theta= 309.495850°, Distance= 89 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 817 : theta= 309.858398°, Distance= 89 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 818 : theta= 310.215454°, Distance= 90 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 819 : theta= 310.578003°, Distance= 90 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 820 : theta= 310.874634°, Distance= 91 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 821 : theta= 311.215210°, Distance= 91 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 822 : theta= 311.577759°, Distance= 92 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 823 : theta= 311.934814°, Distance= 92 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 824 : theta= 312.280884°, Distance= 92 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 825 : theta= 312.637939°, Distance= 93 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 826 : theta= 312.994995°, Distance= 93 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 827 : theta= 313.357544°, Distance= 94 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 828 : theta= 313.654175°, Distance= 94 cm 
+[2022-09-09 19:47:37.702] [Lidar] [debug] Measure n° 829 : theta= 314.011230°, Distance= 95 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 830 : theta= 314.357300°, Distance= 95 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 831 : theta= 314.714355°, Distance= 96 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 832 : theta= 315.076904°, Distance= 96 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 833 : theta= 315.433960°, Distance= 97 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 834 : theta= 315.780029°, Distance= 97 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 835 : theta= 316.093140°, Distance= 98 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 836 : theta= 316.433716°, Distance= 98 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 837 : theta= 316.796265°, Distance= 99 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 838 : theta= 317.153320°, Distance= 100 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 839 : theta= 317.510376°, Distance= 100 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 840 : theta= 317.856445°, Distance= 101 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 841 : theta= 318.576050°, Distance= 101 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 842 : theta= 320.339355°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 843 : theta= 320.701904°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 844 : theta= 321.058960°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 845 : theta= 321.421509°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 846 : theta= 321.762085°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 847 : theta= 322.124634°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 848 : theta= 322.481689°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 849 : theta= 322.838745°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 850 : theta= 323.201294°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 851 : theta= 323.541870°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 852 : theta= 323.904419°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 853 : theta= 324.261475°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 854 : theta= 324.624023°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 855 : theta= 324.964600°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 856 : theta= 325.327148°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 857 : theta= 325.684204°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 858 : theta= 326.046753°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 859 : theta= 326.387329°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 860 : theta= 326.749878°, Distance= 56 cm 
+[2022-09-09 19:47:37.704] [Lidar] [debug] Measure n° 861 : theta= 327.106934°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 862 : theta= 327.463989°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 863 : theta= 327.810059°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 864 : theta= 328.167114°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 865 : theta= 328.529663°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 866 : theta= 328.886719°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 867 : theta= 329.232788°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 868 : theta= 329.589844°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 869 : theta= 329.952393°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 870 : theta= 330.309448°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 871 : theta= 330.655518°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 872 : theta= 331.012573°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 873 : theta= 331.369629°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 874 : theta= 331.732178°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 875 : theta= 332.435303°, Distance= 56 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 876 : theta= 333.561401°, Distance= 95 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 877 : theta= 333.918457°, Distance= 94 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 878 : theta= 334.281006°, Distance= 94 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 879 : theta= 334.687500°, Distance= 94 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 880 : theta= 335.044556°, Distance= 94 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 881 : theta= 335.401611°, Distance= 94 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 882 : theta= 335.764160°, Distance= 93 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 883 : theta= 336.104736°, Distance= 93 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 884 : theta= 336.467285°, Distance= 93 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 885 : theta= 336.824341°, Distance= 93 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 886 : theta= 337.186890°, Distance= 93 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 887 : theta= 337.527466°, Distance= 92 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 888 : theta= 337.890015°, Distance= 92 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 889 : theta= 338.247070°, Distance= 92 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 890 : theta= 338.604126°, Distance= 92 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 891 : theta= 338.950195°, Distance= 91 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 892 : theta= 339.373169°, Distance= 90 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 893 : theta= 339.713745°, Distance= 90 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 894 : theta= 340.076294°, Distance= 90 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 895 : theta= 340.433350°, Distance= 90 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 896 : theta= 340.795898°, Distance= 90 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 897 : theta= 341.136475°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 898 : theta= 341.499023°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 899 : theta= 341.856079°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 900 : theta= 342.218628°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 901 : theta= 342.575684°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 902 : theta= 342.921753°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 903 : theta= 343.278809°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 904 : theta= 343.635864°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 905 : theta= 343.998413°, Distance= 89 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 906 : theta= 344.338989°, Distance= 88 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 907 : theta= 344.701538°, Distance= 88 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 908 : theta= 345.058594°, Distance= 88 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 909 : theta= 345.465088°, Distance= 87 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 910 : theta= 345.827637°, Distance= 87 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 911 : theta= 346.184692°, Distance= 87 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 912 : theta= 346.530762°, Distance= 87 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 913 : theta= 346.887817°, Distance= 87 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 914 : theta= 347.244873°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 915 : theta= 347.607422°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 916 : theta= 347.947998°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 917 : theta= 348.310547°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 918 : theta= 348.667603°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 919 : theta= 349.013672°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 920 : theta= 349.370728°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 921 : theta= 349.716797°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 922 : theta= 350.073853°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 923 : theta= 350.419922°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 924 : theta= 350.776978°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 925 : theta= 351.139526°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 926 : theta= 351.480103°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 927 : theta= 351.842651°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 928 : theta= 352.183228°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 929 : theta= 352.545776°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 930 : theta= 352.902832°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 931 : theta= 353.292847°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 932 : theta= 353.655396°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 933 : theta= 353.995972°, Distance= 86 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 934 : theta= 354.358521°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 935 : theta= 354.715576°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 936 : theta= 355.061646°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 937 : theta= 355.418701°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 938 : theta= 355.764771°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 939 : theta= 356.121826°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 940 : theta= 356.484375°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 941 : theta= 356.824951°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 942 : theta= 357.187500°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 943 : theta= 357.544556°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 944 : theta= 357.890625°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 945 : theta= 358.247681°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 946 : theta= 358.604736°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 947 : theta= 358.950806°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 948 : theta= 359.307861°, Distance= 85 cm 
+[2022-09-09 19:47:37.705] [Lidar] [debug] Measure n° 949 : theta= 359.714355°, Distance= 84 cm 
+[2022-09-09 19:47:37.705] [Clustering] [info] Start Perform Clustering 
+[2022-09-09 19:47:37.748] [Clustering] [debug] A new cluster of 155 have been completed and added to the vector 
+[2022-09-09 19:47:37.750] [Clustering] [debug] A new cluster of 9 have been completed and added to the vector 
+[2022-09-09 19:47:37.751] [Clustering] [debug] A new cluster of 5 have been completed and added to the vector 
+[2022-09-09 19:47:37.767] [Clustering] [debug] A new cluster of 119 have been completed and added to the vector 
+[2022-09-09 19:47:37.774] [Clustering] [debug] A new cluster of 76 have been completed and added to the vector 
+[2022-09-09 19:47:37.779] [Clustering] [debug] A new cluster of 54 have been completed and added to the vector 
+[2022-09-09 19:47:37.782] [Clustering] [debug] A new cluster of 30 have been completed and added to the vector 
+[2022-09-09 19:47:37.783] [Clustering] [debug] A new cluster of 15 have been completed and added to the vector 
+[2022-09-09 19:47:37.784] [Clustering] [debug] A new cluster of 1 have been completed and added to the vector 
+[2022-09-09 19:47:37.784] [Clustering] [debug] A new cluster of 5 have been completed and added to the vector 
+[2022-09-09 19:47:37.790] [Clustering] [debug] A new cluster of 77 have been completed and added to the vector 
+[2022-09-09 19:47:37.791] [Clustering] [debug] A new cluster of 10 have been completed and added to the vector 
+[2022-09-09 19:47:37.792] [Clustering] [debug] A new cluster of 19 have been completed and added to the vector 
+[2022-09-09 19:47:37.792] [Clustering] [debug] A new cluster of 1 have been completed and added to the vector 
+[2022-09-09 19:47:37.794] [Clustering] [debug] A new cluster of 25 have been completed and added to the vector 
+[2022-09-09 19:47:37.798] [Clustering] [debug] A new cluster of 80 have been completed and added to the vector 
+[2022-09-09 19:47:37.799] [Clustering] [debug] A new cluster of 35 have been completed and added to the vector 
+[2022-09-09 19:47:37.804] [Clustering] [debug] A new cluster of 199 have been completed and added to the vector 
+[2022-09-09 19:47:37.804] [Clustering] [debug] A new cluster of 34 have been completed and added to the vector 
+[2022-09-09 19:47:37.804] [Clustering] [debug] 19 clusters have been detected 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 1 : 155 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 333.561401°, distance= 95.000000cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 0.076904°, distance= 83.599998cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 28.558960°, distance= 94.199997cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 2 : 9 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 29.542236°, distance= 78.800003cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 31.014404°, distance= 75.599998cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 33.140259°, distance= 76.599998cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 3 : 5 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 33.750000°, distance= 100.400002cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 34.107056°, distance= 100.000000cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 35.167236°, distance= 101.400002cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 4 : 119 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 36.260376°, distance= 78.199997cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 62.385864°, distance= 50.500000cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 78.464355°, distance= 97.400002cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 5 : 76 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 78.997192°, distance= 108.800003cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 92.856445°, distance= 106.199997cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 106.935425°, distance= 109.000000cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 6 : 54 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 107.605591°, distance= 155.800003cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 111.373901°, distance= 127.800003cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 126.776733°, distance= 146.600006cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 7 : 30 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 127.029419°, distance= 165.199997cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 129.561768°, distance= 156.000000cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 137.296143°, distance= 174.399994cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 8 : 15 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 140.136108°, distance= 53.400002cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 142.327881°, distance= 52.200001cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 145.447998°, distance= 53.000000cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 9 : 1 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 146.640015°, distance= 50.299999cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 146.640015°, distance= 50.299999cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 146.640015°, distance= 50.299999cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 10 : 5 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 148.233032°, distance= 322.799988cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 148.590088°, distance= 321.200012cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 149.655762°, distance= 322.000000cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 11 : 77 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 151.452026°, distance= 119.599998cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 157.483521°, distance= 118.199997cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 178.341064°, distance= 124.400002cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 12 : 10 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 178.983765°, distance= 134.399994cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 182.169800°, distance= 132.399994cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 182.169800°, distance= 132.399994cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 13 : 19 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 184.229736°, distance= 67.400002cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 186.762085°, distance= 66.400002cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 190.530396°, distance= 69.000000cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 14 : 1 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 191.354370°, distance= 77.400002cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 191.354370°, distance= 77.400002cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 191.354370°, distance= 77.400002cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 15 : 25 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 192.810059°, distance= 127.599998cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 195.622559°, distance= 127.199997cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 201.280518°, distance= 127.599998cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 16 : 80 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 202.450562°, distance= 113.000000cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 227.449951°, distance= 98.199997cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 231.339111°, distance= 98.199997cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 17 : 35 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 233.514404°, distance= 48.200001cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 239.529419°, distance= 48.000000cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 245.511475°, distance= 49.000000cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 18 : 199 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 247.296753°, distance= 98.199997cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 276.965332°, distance= 70.000000cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 318.576050°, distance= 101.800003cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Cluster 19 : 34 points 
+[2022-09-09 19:47:37.804] [Clustering] [debug] First :   theta= 320.339355°, distance= 56.799999cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Closest : theta= 326.046753°, distance= 56.400002cm 
+[2022-09-09 19:47:37.804] [Clustering] [debug] Last :    theta= 332.435303°, distance= 56.799999cm
+ 
+[2022-09-09 19:47:37.804] [Clustering] [info] End of Clustering process 
+[2022-09-09 19:47:37.804] [Lidar] [info] Start lidar Verification 
+[2022-09-09 19:47:38.180] [Lidar] [debug] Lidar health is fine and ready to make measurements 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 1 : 0.836000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 2 : 0.776000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 3 : 0.648000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 4 : 0.518000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 5 : 0.505000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 6 : 0.832000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 7 : 1.062000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 8 : 1.080000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 9 : 1.370000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 10 : 0.503000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 11 : 1.182000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 12 : 1.188000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 13 : 0.664000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 14 : 1.056000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 15 : 0.988000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 16 : 0.480000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 17 : 0.481000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 18 : 0.726000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 19 : 0.700000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 20 : 0.728000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 21 : 0.808000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 22 : 0.564000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 23 : 0.566000m 
+[2022-09-09 19:47:38.181] [Lidar] [debug] Zone 24 : 0.844000m 
+[2022-09-09 19:47:39.469] [Lidar] [info] Delete Lidar Object 
